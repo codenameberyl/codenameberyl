@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/bSF8tXY.gif" style="margin-left: 20px;">
+<img align="right" alt="Coding" width="300" src="https://i.imgur.com/bSF8tXY.gif" style="margin-left: 20px;padding-left:20px;">
 
 Welcome to my GitHub repository, where I'm building my own version of the digital world, one project at a time. I believe in crafting coding projects from the ground up, from initial planning and designing to solving real-life problems with elegant code solutions. My video content follows the same philosophy, combining meticulous ideation and planning with artistic touches to create engaging and educational content.
 
