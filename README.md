@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/bSF8tXY.gif" style="margin-left:30px;padding-left:30px;">
 
-Welcome to my GitHub repository, where I'm building my own version of the digital world, one project at a time. I believe in crafting coding projects from the ground up, from initial planning and designing to solving real-life problems with elegant code solutions. My video content follows the same philosophy, combining meticulous ideation and planning with artistic touches to create engaging and educational content.
+Welcome to my GitHub repository, where I'm building my version of the digital world, one project at a time. I believe in crafting coding projects from the ground up, from initial planning and designing to solving real-life problems with elegant code solutions. My video content follows the same philosophy, combining meticulous ideation and planning with artistic touches to create engaging and educational content.
 
 ### YouTube Channel - Abiola Onasanya
 
@@ -12,12 +12,12 @@ Check out my [YouTube Channel](https://www.youtube.com/@codenameberyl) for an ex
 
 ### Completed Harvard Courses
 
-I'm passionate about continuous learning, and I've completed several courses from Harvard University through edX. These courses have expanded my understanding of programming, computer science, web development, and artificial intelligence. Here are the Harvard courses I've successfully completed:
+I'm passionate about continuous learning, and I've completed several courses from Harvard University through edX. These courses have expanded my understanding of programming, computer science, web development, and artificial intelligence. Here are the Harvard courses I've completed:
 
-- [CS50's Introduction to Programming with Python](https://github.com/berylvirgo/CS50P)
-- [CS50's Introduction to Computer Science](https://github.com/berylvirgo/CS50X)
-- [CS50's Web Programming with Python and JavaScript](https://github.com/berylvirgo/CS50W)
-- [CS50's Introduction to Artificial Intelligence with Python](https://github.com/berylvirgo/CS50AI)
+- [CS50's Introduction to Programming with Python](https://github.com/codenameberyl/CS50P)
+- [CS50's Introduction to Computer Science](https://github.com/codenameberyl/CS50X)
+- [CS50's Web Programming with Python and JavaScript](https://github.com/codenameberyl/CS50W)
+- [CS50's Introduction to Artificial Intelligence with Python](https://github.com/codenameberyl/CS50AI)
 
 Feel free to explore these repositories to dive into my code solutions, projects, and coursework from these courses.
 
