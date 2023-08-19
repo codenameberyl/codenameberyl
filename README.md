@@ -8,7 +8,7 @@ Welcome to my GitHub repository, where I'm building my own version of the digita
 
 ### YouTube Channel - Abiola Onasanya
 
-Check out my [YouTube Channel](https://www.youtube.com/channel/UCq40I6um14zRatlT6yfZU4A) for an exciting journey into the world of web development, coding projects, tutorials, and more. Join me as I explore coding concepts, share my development journey, and provide insights into my creative process.
+Check out my [YouTube Channel](https://www.youtube.com/@codenameberyl) for an exciting journey into the world of web development, coding projects, tutorials, and more. Join me as I explore coding concepts, share my development journey, and provide insights into my creative process.
 
 ### Completed Harvard Courses
 
@@ -32,7 +32,7 @@ I'm always on the lookout for new challenges and opportunities to expand my skil
 <a href="https://linkedin.com/in/abiola-onasanya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="abiola-onasanya" height="20" width="30" style="padding-right:10px;" /></a>
 <a href="https://twitter.com/codenameberyl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="codenameberyl" height="20" width="30" style="padding-right:10px;" /></a>
 <a href="https://instagram.com/codenameberyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codenameberyl" height="20" width="30" style="padding-right:10px;" /></a>
-<a href="https://www.youtube.com/channel/UCq40I6um14zRatlT6yfZU4A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucq40i6um14zratlt6yfzu4a" height="20" width="30" style="padding-right:10px;" /></a>
+<a href="https://www.youtube.com/@codenameberyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucq40i6um14zratlt6yfzu4a" height="20" width="30" style="padding-right:10px;" /></a>
 <a href="https://fb.com/codenameberyl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="codenameberyl" height="20" width="30" style="padding-right:10px;" /></a>
 </p>
 
