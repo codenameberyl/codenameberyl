@@ -19,7 +19,7 @@ I'm passionate about continuous learning, and I've completed several courses fro
 - [CS50's Web Programming with Python and JavaScript](https://github.com/codenameberyl/CS50W)
 - [CS50's Introduction to Artificial Intelligence with Python](https://github.com/codenameberyl/CS50AI)
 - [CS50’s Introduction to Databases with SQL](https://github.com/codenameberyl/CS50SQL)
-- [CS50’s Introduction to Cybersecurityn](https://github.com/codenameberyl/CS50CY)
+- [CS50’s Introduction to Cybersecurity](https://github.com/codenameberyl/CS50CY)
 
 Feel free to explore these repositories to dive into my code solutions, projects, and coursework from these courses.
 
