@@ -43,12 +43,12 @@ I'm always on the lookout for new challenges and opportunities to expand my skil
 
 <br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=berylvirgo&label=Profile%20views&color=0e75b6&style=flat)](#completed-harvard-courses)
+[![Profile Views](https://komarev.com/ghpvc/?username=codenameberyl&label=Profile%20views&color=0e75b6&style=flat)](#completed-harvard-courses)
 [![Harvard Courses](https://img.shields.io/badge/Harvard%20Courses-Completed-blue)](#completed-harvard-courses)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)](#github-repositories)
 
 <br>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=berylvirgo&show_icons=true&locale=en&theme=dark" alt="berylvirgo" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenameberyl&show_icons=true&locale=en&theme=dark" alt="codenameberyl" />
 </p>
