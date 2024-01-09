@@ -14,10 +14,10 @@ Check out my [YouTube Channel](https://www.youtube.com/@codenameberyl) for an ex
 
 I'm passionate about continuous learning, and I've completed several courses from Harvard University through edX. These courses have expanded my understanding of programming, computer science, web development, and artificial intelligence. Here are the Harvard courses I've completed:
 
-- [CS50's Introduction to Programming with Python](https://github.com/codenameberyl/CS50P)
 - [CS50's Introduction to Computer Science](https://github.com/codenameberyl/CS50X)
 - [CS50's Web Programming with Python and JavaScript](https://github.com/codenameberyl/CS50W)
 - [CS50's Introduction to Artificial Intelligence with Python](https://github.com/codenameberyl/CS50AI)
+- [CS50's Introduction to Programming with Python](https://github.com/codenameberyl/CS50P)
 - [CS50’s Introduction to Databases with SQL](https://github.com/codenameberyl/CS50SQL)
 - [CS50’s Introduction to Cybersecurity](https://github.com/codenameberyl/CS50CY)
 
