@@ -1,54 +1,75 @@
-# 👨🏾‍💻 Abiola Onasanya
+# Abiola Onasanya
 
-**`Web Developer`**
+> Software Engineer. Backend systems and machine learning applications.
 
-<img align="right" alt="Coding" width="300" src="https://i.imgur.com/bSF8tXY.gif" style="margin-left:30px;padding-left:30px;">
+Nearly four years building Python backends and REST APIs — Django, Django REST Framework, PostgreSQL — now with an MSc in Artificial Intelligence from Sheffield Hallam University. Formerly Software Engineer at Validators Innovation. Based in the UK.
 
-Welcome to my GitHub repository, where I'm building my version of the digital world, one project at a time. I believe in crafting coding projects from the ground up, from initial planning and designing to solving real-life problems with elegant code solutions. My video content follows the same philosophy, combining meticulous ideation and planning with artistic touches to create engaging and educational content.
-
-### YouTube Channel - Abiola Onasanya
-
-Check out my [YouTube Channel](https://www.youtube.com/@codenameberyl) for an exciting journey into the world of web development, coding projects, tutorials, and more. Join me as I explore coding concepts, share my development journey, and provide insights into my creative process.
-
-### Completed Harvard Courses
-
-I'm passionate about continuous learning, and I've completed several courses from Harvard University through edX. These courses have expanded my understanding of programming, computer science, web development, and artificial intelligence. Here are the Harvard courses I've completed:
-
-- [CS50's Introduction to Computer Science](https://github.com/codenameberyl/CS50X)
-- [CS50's Web Programming with Python and JavaScript](https://github.com/codenameberyl/CS50W)
-- [CS50's Introduction to Artificial Intelligence with Python](https://github.com/codenameberyl/CS50AI)
-- [CS50's Introduction to Programming with Python](https://github.com/codenameberyl/CS50P)
-- [CS50’s Introduction to Databases with SQL](https://github.com/codenameberyl/CS50SQL)
-- [CS50’s Introduction to Cybersecurity](https://github.com/codenameberyl/CS50CY)
-
-Feel free to explore these repositories to dive into my code solutions, projects, and coursework from these courses.
-
-### What's Next?
-
-I'm always on the lookout for new challenges and opportunities to expand my skill set. If you have any suggestions, project ideas, or collaborations in mind, feel free to reach out. Let's connect and continue to build a remarkable digital world together!
+**[Portfolio](https://codenameberyl.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/codenameberyl/) · [Email](mailto:abiolaonasanya22@gmail.com)
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/codenameberyl/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="abiola-onasanya" height="20" width="30" style="padding-right:10px;" /></a>
-<a href="https://twitter.com/codenameberyl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="codenameberyl" height="20" width="30" style="padding-right:10px;" /></a>
-<a href="https://instagram.com/codenameberyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codenameberyl" height="20" width="30" style="padding-right:10px;" /></a>
-<a href="https://www.youtube.com/@codenameberyl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucq40i6um14zratlt6yfzu4a" height="20" width="30" style="padding-right:10px;" /></a>
-<a href="https://fb.com/codenameberyl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="codenameberyl" height="20" width="30" style="padding-right:10px;" /></a>
-</p>
+## Selected work
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="nextjs" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30" style="padding-right:10px;"/> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30" style="padding-right:10px;"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30" style="padding-right:10px;"/> </a> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30" style="padding-right:10px;"/> </a> </p>
+#### [Pediatric Pneumonia Classification](https://github.com/codenameberyl/crosspop-cxr-asymmetry) <sub>· MSc dissertation</sub>
+Measures whether lightweight pediatric pneumonia classifiers transfer asymmetrically between Chinese and Nigerian chest X-ray cohorts, with a reproducible confidence-reliability evaluation framework.
+<sub>Python · PyTorch · MobileNetV2 · EfficientNet-B0</sub>
 
-<br>
+#### [FIG-Loneliness](https://github.com/codenameberyl/fig-loneliness-airdp10) <sub>· [Live dashboard](https://fig-lone.vercel.app/)</sub>
+Team research project on loneliness self-disclosure detection in Reddit posts. I built the deployed FastAPI backend, the inference engine, and the eight-page interactive dashboard.
+<sub>Python · FastAPI · PyTorch · Hugging Face · Next.js · TypeScript</sub>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=codenameberyl&label=Profile%20views&color=0e75b6&style=flat)](#completed-harvard-courses)
-[![Harvard Courses](https://img.shields.io/badge/Harvard%20Courses-Completed-blue)](#completed-harvard-courses)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-green)](#github-repositories)
+#### [ZSPMS](https://github.com/codenameberyl/zspms)
+Webots-based autonomous package-sorting system — UR10e arm, custom-trained YOLOv8 detection, OCR and CLIP verification, joint-sensor-driven finite state machine.
+<sub>Python · Webots · YOLOv8 · OpenCV · CLIP</sub>
 
-<br>
+#### [StoryReasoning](https://github.com/codenameberyl/dnnls)
+A lightweight toy implementation inspired by the StoryReasoning paper, exploring grounded visual storytelling with chain-of-thought grounding tables at small scale.
+<sub>Python · PyTorch · CNN/LSTM/GRU</sub>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codenameberyl&show_icons=true&locale=en&theme=dark" alt="codenameberyl" />
-</p>
+Case studies for each are on my [portfolio](https://codenameberyl.vercel.app/), which is itself [open source](https://github.com/codenameberyl/portfolio) — Next.js, TypeScript, MDX.
+
+---
+
+## Experience
+
+**Software Engineer** · Validators Innovation
+<sub>Aug 2022 – Aug 2025</sub>
+
+**Junior Software Engineer** · Fastrade Logistics Limited
+<sub>Dec 2021 – Aug 2022</sub>
+
+## Education
+
+**MSc Artificial Intelligence** · Sheffield Hallam University
+<sub>2025 – 2026</sub>
+
+**BSc Computer Science** · ESAE University
+<sub>2019 – 2022</sub>
+
+---
+
+## Skills
+
+**Programming** — Python, JavaScript, TypeScript, SQL, R
+**Backend** — Django, Django REST Framework, FastAPI, RESTful APIs, PostgreSQL, SQLite
+**Machine learning** — PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV, Ultralytics YOLO
+**NLP** — spaCy, Sentence-BERT, Word2Vec, TF-IDF, Transformer models
+**Evaluation** — AUROC, calibration (ECE), bootstrap resampling, permutation tests, DeLong and McNemar tests
+**Frontend and deployment** — React, Next.js, Hugging Face Spaces, Vercel, Git
+
+---
+
+<details>
+<summary><b>Harvard CS50</b> — seven completed courses</summary>
+
+- [CS50x: Introduction to Computer Science](https://github.com/codenameberyl/CS50X)
+- [CS50W: Web Programming with Python and JavaScript](https://github.com/codenameberyl/CS50W)
+- [CS50AI: Introduction to Artificial Intelligence with Python](https://github.com/codenameberyl/CS50AI)
+- [CS50P: Introduction to Programming with Python](https://github.com/codenameberyl/CS50P)
+- [CS50SQL: Introduction to Databases with SQL](https://github.com/codenameberyl/CS50SQL)
+- [CS50R: Introduction to Programming with R](https://github.com/codenameberyl/CS50R)
+- [CS50CY: Introduction to Cybersecurity](https://github.com/codenameberyl/CS50CY)
+
+</details>
+
+<sub>Also on [YouTube](https://www.youtube.com/@codenameberyl) · [X](https://twitter.com/codenameberyl) · [Instagram](https://instagram.com/codenameberyl) · [Facebook](https://fb.com/codenameberyl)</sub>
