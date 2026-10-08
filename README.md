@@ -50,12 +50,12 @@ Case studies for each are on my [portfolio](https://codenameberyl.vercel.app/), 
 
 ## Skills
 
-**Programming** — Python, JavaScript, TypeScript, SQL, R
+<p>**Programming** — Python, JavaScript, TypeScript, SQL, R
 **Backend** — Django, Django REST Framework, FastAPI, RESTful APIs, PostgreSQL, SQLite
 **Machine learning** — PyTorch, TensorFlow, scikit-learn, Hugging Face Transformers, OpenCV, Ultralytics YOLO
 **NLP** — spaCy, Sentence-BERT, Word2Vec, TF-IDF, Transformer models
 **Evaluation** — AUROC, calibration (ECE), bootstrap resampling, permutation tests, DeLong and McNemar tests
-**Frontend and deployment** — React, Next.js, Hugging Face Spaces, Vercel, Git
+**Frontend and deployment** — React, Next.js, Hugging Face Spaces, Vercel, Git</p>
 
 ---
 
