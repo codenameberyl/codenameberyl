@@ -4,7 +4,7 @@
 
 Nearly four years building Python backends and REST APIs — Django, Django REST Framework, PostgreSQL — now with an MSc in Artificial Intelligence from Sheffield Hallam University. Formerly Software Engineer at Validators Innovation. Based in the UK.
 
-**[Portfolio](https://codenameberyl.vercel.app/)** · [LinkedIn](https://www.linkedin.com/in/codenameberyl/) · [Email](mailto:abiolaonasanya22@gmail.com)
+**[Portfolio](https://abiolaonasanya.com/)** · [LinkedIn](https://www.linkedin.com/in/codenameberyl/) · [Email](mailto:abiolaonasanya22@gmail.com)
 
 ---
 
@@ -26,7 +26,7 @@ Webots-based autonomous package-sorting system — UR10e arm, custom-trained YOL
 A lightweight toy implementation inspired by the StoryReasoning paper, exploring grounded visual storytelling with chain-of-thought grounding tables at small scale.
 <sub>Python · PyTorch · CNN/LSTM/GRU</sub>
 
-Case studies for each are on my [portfolio](https://codenameberyl.vercel.app/), which is itself [open source](https://github.com/codenameberyl/portfolio) — Next.js, TypeScript, MDX.
+Case studies for each are on my [portfolio](https://abiolaonasanya.com/), which is itself [open source](https://github.com/codenameberyl/portfolio) — Next.js, TypeScript, MDX.
 
 ---
 
